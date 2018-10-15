@@ -1,5 +1,7 @@
 # The Illustrated TLS Connection
 
+[![GuardRails badge](https://badges.production.guardrails.io/r0flc0pt4/illustrated-tls.svg)](https://www.guardrails.io)
+
 Published at https://tls.ulfheim.net
 
 - `site/`: page source for the finished product
